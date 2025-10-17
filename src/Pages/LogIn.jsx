@@ -134,7 +134,7 @@ const googleSigIn=()=>{
                           ></path>
                         </g>
                       </svg>
-                      Login with Google
+                      Login with Google 
                     </button>
 
                     <p className="mt-2">
