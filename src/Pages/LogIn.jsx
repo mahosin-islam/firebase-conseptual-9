@@ -138,7 +138,7 @@ const googleSigIn=()=>{
                     </button>
 
                     <p className="mt-2">
-                      Already have Sign up? please{" "}
+                      Already have Sign up?f please{" "}
                       <Link className="text-blue-600" to="/Register">
                         Sign up
                       </Link>
