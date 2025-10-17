@@ -39,7 +39,7 @@ const Register = () => {
           <div className="text-center lg:text-left">
             <h1 className="text-3xl  text-white font-bold">Crat your accout</h1>
             <p className="py-6 text-gray-300">
-              Provident cupiditate voluptatem et in. duaerat fugiat ut assumenda
+              Provident cupiditate voluptatem e  duaerat fugiat ut assumenda
               excepturi exercitationem quasi. In deleniti eaque aut repudiandae
               et a id nisi.
             </p>
